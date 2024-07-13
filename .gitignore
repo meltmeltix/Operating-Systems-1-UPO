@@ -1,3 +1,6 @@
-Smallsh/smallsh.o
-Smallsh/smallsh
-Smallsh/input.o
+smallsh/smallsh.o
+smallsh/smallsh
+smallsh/input.o
+threads/a.out
+threads/test.txt
+memory/a.out
